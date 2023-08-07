@@ -26,3 +26,7 @@ Documentation and presentation: Once the analysis is complete, you'd want to doc
 places = ['Africa','Asia','Asia-Temperate','Asia-Tropical','Canada','Central America - Neotropics','China','Colombia','Costa Rica',
           'Ecuador','Europe','Mexico','North America - Neotropics','North America','Pacific Islands','Panama','Peru',
           'Philippines','South America - Neotropics','South America','Venezuela','West Indies - Neotropics ']
+
+# Met
+
+Used $ git lfs clone https://github.com/metmuseum/openaccess to get data, removed the artifacts that were Is Highlight = False
