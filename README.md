@@ -20,3 +20,9 @@ Data analysis and visualization: This is the core of the project, where you perf
 Creating an interactive interface (optional): If you decide to create an interactive interface for users to explore the results, it could add some additional time, possibly a few days.
 
 Documentation and presentation: Once the analysis is complete, you'd want to document your code and results properly. Depending on how detailed you want the documentation to be, this step might take a day or two.
+
+
+# Smithsonian Places
+places = ['Africa','Asia','Asia-Temperate','Asia-Tropical','Canada','Central America - Neotropics','China','Colombia','Costa Rica',
+          'Ecuador','Europe','Mexico','North America - Neotropics','North America','Pacific Islands','Panama','Peru',
+          'Philippines','South America - Neotropics','South America','Venezuela','West Indies - Neotropics ']
