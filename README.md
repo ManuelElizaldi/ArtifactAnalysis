@@ -22,7 +22,10 @@ Creating an interactive interface (optional): If you decide to create an interac
 Documentation and presentation: Once the analysis is complete, you'd want to document your code and results properly. Depending on how detailed you want the documentation to be, this step might take a day or two.
 
 
-# Smithsonian Places
+# Smithsonian
+documentation
+https://edan.si.edu/openaccess/apidocs/
+### Places
 places = ['Africa','Asia','Asia-Temperate','Asia-Tropical','Canada','Central America - Neotropics','China','Colombia','Costa Rica',
           'Ecuador','Europe','Mexico','North America - Neotropics','North America','Pacific Islands','Panama','Peru',
           'Philippines','South America - Neotropics','South America','Venezuela','West Indies - Neotropics ']
