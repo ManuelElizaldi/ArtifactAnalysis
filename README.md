@@ -28,5 +28,6 @@ places = ['Africa','Asia','Asia-Temperate','Asia-Tropical','Canada','Central Ame
           'Philippines','South America - Neotropics','South America','Venezuela','West Indies - Neotropics ']
 
 # Met
-
+documentation
+https://github.com/metmuseum/openaccess
 Used $ git lfs clone https://github.com/metmuseum/openaccess to get data, removed the artifacts that were Is Highlight = False
