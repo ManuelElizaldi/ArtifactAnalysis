@@ -41,6 +41,11 @@ Used $ git lfs clone https://github.com/metmuseum/openaccess to get data, remove
 
 
 # Data
+https://rapidapi.com/thecityvisitor/api/the-best-art-galleries-and-museums-in-venice-the-oxmdpo/
+
+https://rapidapi.com/community/api/rijksmuseum/
+
+https://rapidapi.com/thecityvisitor/api/the-best-art-galleries-and-museums-in-venice-the-oxmdpo/
 Public Museum APIs:
 
 British Museum API: The British Museum offers an API that grants access to their collection data, which includes historical artifacts from around the world. You can find more information and access the API documentation here: https://britishmuseum.github.io/british-museum-api/
