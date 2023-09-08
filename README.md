@@ -41,6 +41,9 @@ Used $ git lfs clone https://github.com/metmuseum/openaccess to get data, remove
 
 
 # Data
+https://github.com/MuseumofModernArt/collection
+https://github.com/tategallery/collection
+
 https://rapidapi.com/thecityvisitor/api/the-best-art-galleries-and-museums-in-venice-the-oxmdpo/
 
 https://rapidapi.com/community/api/rijksmuseum/
