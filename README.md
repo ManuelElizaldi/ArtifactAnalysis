@@ -59,6 +59,4 @@ MOMA: https://www.kaggle.com/datasets/momanyc/museum-collection
 
 Google Arts & Culture Dataset: Google Arts & Culture provides access to a collection of high-resolution images and metadata for artworks and cultural artifacts from museums around the world. You can find the dataset on Kaggle: https://www.kaggle.com/googleartsculture/art-images-drawings-painting-and-sculpture
 
-Museum of Modern Art (MoMA) Collection Dataset: The MoMA in New York has made a dataset available containing information about their collection, including artworks and historical objects. You can find it on GitHub: https://github.com/MuseumofModernArt/collection
-
 Tate Art Museum Collection Dataset: The Tate provides a dataset of their collection, featuring British art from the last five centuries. You can access it on GitHub: https://github.com/tategallery/collection
