@@ -1,6 +1,7 @@
 config.py
 Resources/09-07-23-test.csv
 Resources/chicago_df.csv
+Resources/moma.txt
 /openaccess
 # Byte-compiled / optimized / DLL files
 __pycache__/
