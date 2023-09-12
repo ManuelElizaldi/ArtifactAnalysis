@@ -13,6 +13,8 @@ Geospatial analysis: Plot the distribution of artifacts on a world map to visual
 Time series analysis: Explore the temporal distribution of artifacts to understand cultural trends and historical periods.
 Sentiment analysis: Use natural language processing to analyze textual descriptions of artifacts and identify sentiments associated with different cultures or historical periods.
 
+### Project Workflow
+![ProjectWorkflow](/Resources/ProjectWorkflow.png)
 
 ## Steps
 Data gathering and preparation: This stage involves finding and collecting the data from museum websites or public datasets. Depending on the availability and format of the data, this could take a few hours to a couple of days.
