@@ -49,7 +49,6 @@ https://rapidapi.com/thecityvisitor/api/the-best-art-galleries-and-museums-in-ve
 
 https://rapidapi.com/community/api/rijksmuseum/
 
-https://rapidapi.com/thecityvisitor/api/the-best-art-galleries-and-museums-in-venice-the-oxmdpo/
 Public Museum APIs:
 
 British Museum API: The British Museum offers an API that grants access to their collection data, which includes historical artifacts from around the world. You can find more information and access the API documentation here: https://britishmuseum.github.io/british-museum-api/
@@ -57,9 +56,5 @@ British Museum API: The British Museum offers an API that grants access to their
 Public Museum Datasets:
 
 MOMA: https://www.kaggle.com/datasets/momanyc/museum-collection
-
-Google Arts & Culture Dataset: Google Arts & Culture provides access to a collection of high-resolution images and metadata for artworks and cultural artifacts from museums around the world. You can find the dataset on Kaggle: https://www.kaggle.com/googleartsculture/art-images-drawings-painting-and-sculpture
-
-Museum of Modern Art (MoMA) Collection Dataset: The MoMA in New York has made a dataset available containing information about their collection, including artworks and historical objects. You can find it on GitHub: https://github.com/MuseumofModernArt/collection
 
 Tate Art Museum Collection Dataset: The Tate provides a dataset of their collection, featuring British art from the last five centuries. You can access it on GitHub: https://github.com/tategallery/collection
