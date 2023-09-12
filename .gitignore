@@ -1,5 +1,12 @@
 config.py
+Resources/TateGallery_data.csv
+Resources/BrithishMuseum_Africa.csv
+Resources/BrithishMuseum_Mexico.csv
+Resources/BrithishMuseum_Oceania.csv
+Resources/BrithishMuseum_SouthAmerica.csv
+Resources/Met_data.csv
 Resources/09-07-23-test.csv
+Resources/smithsonian_df.csv
 Resources/chicago_df.csv
 Resources/moma.txt
 /openaccess
